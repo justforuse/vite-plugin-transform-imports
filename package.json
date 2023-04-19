@@ -1,0 +1,23 @@
+{
+  "name": "vite-plugin-transform-imports",
+  "version": "1.0.0",
+  "description": "Transforms member style imports into default style imports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justforuse/vite-plugin-transform-imports.git"
+  },
+  "keywords": [
+    "vite",
+    "vite-plugin"
+  ],
+  "author": "justforuse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justforuse/vite-plugin-transform-imports/issues"
+  },
+  "homepage": "https://github.com/justforuse/vite-plugin-transform-imports#readme"
+}
